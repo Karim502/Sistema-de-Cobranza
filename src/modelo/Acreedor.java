@@ -5,4 +5,10 @@ public class Acreedor extends Persona{
   String ruc;
   String razonSocial;
 
+  public String getIdAcreedor(){
+    return getIdAcreedor;
+  }
+
+  
+
 }
